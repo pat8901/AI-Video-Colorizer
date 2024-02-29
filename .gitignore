@@ -1,0 +1,8 @@
+.venv
+__pycache__
+output.avi
+videos/Golf_Specialist_1930.mp4
+videos/On purge bébé (1931).mp4
+parsed_video/*.jpg
+colorized_parsed_video/*.jpg
+model/colorization_release_v2.caffemodel

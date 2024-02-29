@@ -1,0 +1,1 @@
+Holds black and white frames from video
