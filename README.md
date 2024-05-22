@@ -1,5 +1,4 @@
-Place the model in the model folder
-Link to caffe model:
+Get a copy of the caffe model and place in the model folder
 
 Link to original author: https://richzhang.github.io/colorization/
 
